@@ -2,7 +2,7 @@
 Profile
 👋 Hi, I'm Sanjay Chandiran
 
-🎓 Final Year Student – Department of AI & Data Science  
+🎓   Department of AI & Data Science  
 🔍 Aspiring *AI Engineer* | *Data Scientist* | Passionate Problem Solver
 
 ---
